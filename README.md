@@ -1,4 +1,4 @@
-<center># Hi! I'm Mateo Paz!</center>
+# Hi! I'm Mateo Paz!
 
 ## *Front-End Programmer* 
 
