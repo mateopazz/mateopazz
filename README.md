@@ -2,7 +2,7 @@
 
 ## *Front-End Programmer* 
 
-I'm a 17 years old **front-end** and a still learning ***Back-End*** web designer. I've worked with various projects from secondary school and some personal ones.
+I'm a 17 years old **Front-End** and a still learning ***Back-End*** web designer. I've worked with various projects from secondary school and some personal ones.
 
 My **primary** programming languages are:
 1. HTML 🟠
