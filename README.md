@@ -2,16 +2,13 @@
 
 ## *Front-End Programmer* 
 
-I'm a 18 years old **Front-End** and a still learning ***Back-End*** web designer. I've worked with various projects from secondary school and some personal ones.
+I'm a 20 years old specialized in **Dynamic Front-End** web design. I've worked with various projects from secondary school, volunteering websites and personal others.
 
 My **primary** programming languages are:
 1. HTML 🟠
 2. CSS 🔵
-
-I'm **actually learning** the next Back-End languages:
-1. PHP 🟣
-3. MySQL 🐬
-4. Java ☕
+3. JavaScript 🟡
+4. PHP 🟣
 
 ## *Contact* 
 Gmail: pazmateo2006@gmail.com
